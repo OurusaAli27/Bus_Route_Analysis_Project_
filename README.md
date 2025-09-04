@@ -1,10 +1,6 @@
 # Bus_Route_Analysis_Project_
 End-to-end SQL + Power BI project analyzing public bus routes, trip delays, and fleet performance using MySQL &amp; interactive dashboard
 
-# Bus Route Performance Analysis
-
-End-to-end SQL + Power BI project to measure and visualize public bus trip delays, identify high-delay routes/buses, and provide actionable KPIs for better scheduling decisions.
-
 ## 📌 Objective
 This project explores how SQL and Power BI can improve public transport efficiency by:
 - Tracking **average delay**, **delayed trip percentage**, and **route/bus performance**
