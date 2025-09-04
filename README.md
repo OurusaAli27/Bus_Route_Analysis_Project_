@@ -8,9 +8,9 @@ This project explores how SQL and Power BI can improve public transport efficien
 - Presenting an **interactive dashboard** for managers to make data-driven adjustments
 
 ## 🗂 Data
-- **GPS / Trip Logs** – bus number, route, scheduled & actual times, delay (minutes)
-- **Routes Table** – route IDs, route names, and stop information  
-Demo dataset contains ~50 trips for analysis.
+- **Trip Logs**  
+- **Routes**
+- **Buses**  
 
 ## 🛠 Tools & Skills
 - **SQL (MySQL)** – data cleaning, joins, aggregations
