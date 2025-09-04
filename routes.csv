@@ -1,0 +1,6 @@
+route_id,route_name,start_stop,end_stop,total_stops
+1,Route A,Stop 1,Stop 10,10
+2,Route B,Stop 11,Stop 20,10
+3,Route C,Stop 21,Stop 30,10
+4,Route D,Stop 31,Stop 40,10
+5,Route E,Stop 41,Stop 50,10
