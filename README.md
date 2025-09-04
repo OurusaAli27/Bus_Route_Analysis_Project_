@@ -19,7 +19,7 @@ This project explores how SQL and Power BI can improve public transport efficien
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](<img width="1734" height="799" alt="Screenshot 2025-09-05 001143" src="https://github.com/user-attachments/assets/8af10d15-f087-4eba-8b5a-97ea96a63d8a" />)
+![Dashboard Preview](Dashboard.png)
 
 > KPI cards show total trips, delayed trips, and fleet average delay. Visuals include route-wise delays, bus-wise performance, date trends, and a geo map of stops.
 
