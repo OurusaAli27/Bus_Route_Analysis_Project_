@@ -38,13 +38,6 @@ This project explores how SQL and Power BI can improve public transport efficien
   - Any route/bus >20 % delayed trips
 - Add an **hour-of-day / weekday** page to validate peak hours and guide schedule tuning
 
-## 📁 Repository Structure
-Bus-Delay-Analysis/
-├─ README.md
-│ └─ BusDelay.pdf
-└─ dashboard/
-└─ BusDelay.pbix 
-
 📧 Author
 Ourusa Ali
 aliourusa@gmail.com
